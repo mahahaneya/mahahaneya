@@ -1,8 +1,6 @@
-<div align="center">
 
-<img src="portrait.png" width="180" alt="Maha Haneya Mughal" style="border-radius:50%;" />
 
-# Hi, I'm Maha Haneya Mughal 👋
+# MAHA HANEYA MUGHAL 👋
 
 ### Web Developer · Graphic Designer · Programmer · AI/ML Enthusiast
 
