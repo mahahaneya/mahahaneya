@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/portrait.png" width="180" alt="Maha Haneya Mughal" style="border-radius:50%;" />
+<img src="portrait.png" width="180" alt="Maha Haneya Mughal" style="border-radius:50%;" />
 
 # Hi, I'm Maha Haneya Mughal 👋
 
