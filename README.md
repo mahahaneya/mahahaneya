@@ -28,11 +28,6 @@
 
 I'm a Computer Science student with **4+ years of graphic design experience** and hands-on experience in web development, programming, and data management. I enjoy turning ideas into polished digital experiences—from responsive websites to logos, brand identities, and organized data solutions.
 
-- 💻 Building responsive, user-friendly websites and programming projects
-- 🎨 Creating logos, brand identities, social graphics, and print-ready designs
-- 🗄️ Working with SQL, Excel, and database management
-- 🤖 Growing my knowledge of AI/ML
-- 🤝 Experienced in client communication and delivering tailored solutions
 
 ## 🧰 Skills & Technologies
 
