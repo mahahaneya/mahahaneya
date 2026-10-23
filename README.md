@@ -2,7 +2,7 @@
 
 
 
-# MAHA HANEYA MUGHAL 👋
+# MAHA HANEYA MUGHAL 💻
 
 ### Web Developer · Graphic Designer · Programmer · AI/ML Enthusiast
 
@@ -19,7 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/maha-haneya)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome)](https://mahahaneya.portfolio.com)
 
-### 🌱 “Building a better tomorrow, one line of code at a time.”
+
 
 </div>
 
