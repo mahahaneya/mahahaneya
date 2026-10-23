@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-
+## 🤝 Let's Connect
 [![Email](https://img.shields.io/badge/Email-Contact-00e6a0?style=for-the-badge&logo=gmail&logoColor=07111b)](mailto:mahahaneya0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/maha-haneya)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome)](https://mahahaneya.portfolio.com)
@@ -125,5 +125,5 @@ Exploring AI/ML concepts and building on programming and problem-solving skills.
 - **Google Agile Essentials** · 2025
 - **English Language Course** — Saki Institute of Science & Technology, Sukkur · 2023
 
-## 🤝 Let's Connect
+
 
