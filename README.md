@@ -8,11 +8,21 @@
 
 **Computer Science Student | Web Development | UI/UX & Branding | Database Management**
 
-📍 Sukkur, Pakistan · ✉️ [Email](mailto:mahahaneya0@gmail.com) · [LinkedIn](https://linkedin.com/in/maha-haneya) · [Portfolio](https://mahahaneya.portfolio.com)
+📍 Sukkur, Pakistan · ✉️
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07111b,50:073b32,100:00e6a0&height=3" width="100%" alt="" />
 
 </div>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-Contact-00e6a0?style=for-the-badge&logo=gmail&logoColor=07111b)](mailto:mahahaneya0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/maha-haneya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome)](https://mahahaneya.portfolio.com)
+
+### 🌱 “Building a better tomorrow, one line of code at a time.”
+
+</div>
+
 
 ## ✨ About Me
 
@@ -43,22 +53,18 @@ I'm a Computer Science student with **4+ years of graphic design experience** an
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=07111b&title_color=00e6a0&icon_color=00e6a0&text_color=d7e2ea" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=07111b&title_color=00e6a0&text_color=d7e2ea" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mahahaneya&show_icons=true&hide_border=true&bg_color=07111b&title_color=00e6a0&icon_color=00e6a0&text_color=d7e2ea" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahahaneya&layout=compact&hide_border=true&bg_color=07111b&title_color=00e6a0&text_color=d7e2ea" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=07111b&ring=00e6a0&fire=00e6a0&currStreakLabel=00e6a0&sideLabels=d7e2ea&dates=8a9aa8" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=mahahaneya&hide_border=true&background=07111b&ring=00e6a0&fire=00e6a0&currStreakLabel=00e6a0&sideLabels=d7e2ea&dates=8a9aa8" alt="GitHub streak" />
 
 </div>
 
 ## 🗓️ Contribution Graph
 
-<div align="center">
 
-[![Maha's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=07111b&color=d7e2ea&line=00e6a0&point=ffffff&area=true&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
-
-</div>
 
 ## 🚀 Featured Work
 
@@ -122,12 +128,3 @@ Exploring AI/ML concepts and building on programming and problem-solving skills.
 
 ## 🤝 Let's Connect
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-Contact-00e6a0?style=for-the-badge&logo=gmail&logoColor=07111b)](mailto:mahahaneya0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/maha-haneya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome)](https://mahahaneya.portfolio.com)
-
-### 🌱 “Building a better tomorrow, one line of code at a time.”
-
-</div>
