@@ -62,7 +62,6 @@ I'm a Computer Science student with **4+ years of graphic design experience** an
 
 </div>
 
-## 🗓️ Contribution Graph
 
 
 
